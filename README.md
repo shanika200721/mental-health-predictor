@@ -24,25 +24,12 @@ This project is designed to assist counselors and patients in identifying potent
 | VS Code | Code development |
 
 ---
-
-
-## 📸 Project Illustrations
-### 🧑‍💻 Animated User Searching for Mental Health Solutions
-![Animated User Searching](https://media.giphy.com/media/5xtDarIN81oOArm7gTS/giphy.gif)
-
-### 🧠 Mental Health Awareness
-![Mental Health Awareness](https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif)
-
-### 🔬 AI Predicting Mental Health Disorders
-![AI Predicting](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
+![Mental Health](https://i.pinimg.com/originals/6d/28/af/6d28afdca2f4aa9fcd8ec471fe9a6615.gif)
 ---
-
 ## 🚀 How It Works
 1. **User Inputs Symptoms**: The user selects symptoms from a predefined list.
 2. **Model Predicts the Condition**: The trained ML model processes the input and predicts potential mental health disorders.
 3. **Guidance & Recommendations**: The system suggests advice for both the counselor and the patient based on the prediction.
-
 ---
 
 ## 🛠 Setup Instructions
@@ -61,18 +48,13 @@ This project is designed to assist counselors and patients in identifying potent
 - Test endpoints for model predictions.
 
 ---
-
 ## 📢 Future Enhancements
 - Expand the dataset for higher accuracy.
 - Implement a chatbot for interactive counseling sessions.
 - Enhance UI/UX for better accessibility.
-
 ---
 
 ## 👥 Contributors
 - **Shanika Munasinghe** (ML Model & Backend Development)
-
-
-
 
 📌 *Feel free to contribute and enhance this project!* 🚀

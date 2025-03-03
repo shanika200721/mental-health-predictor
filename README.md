@@ -25,15 +25,16 @@ This project is designed to assist counselors and patients in identifying potent
 
 ---
 
+
 ## 📸 Project Illustrations
+### 🧑‍💻 Animated User Searching for Mental Health Solutions
+![Animated User Searching](https://media.giphy.com/media/5xtDarIN81oOArm7gTS/giphy.gif)
+
 ### 🧠 Mental Health Awareness
-![Mental Health Awareness](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Mental Health Awareness](https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif)
 
-### 🤖 Machine Learning Model Training
-![Machine Learning Training](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
-
-### 🔍 Neural Network Processing Data
-![Neural Network Animation](https://media.giphy.com/media/l3q2Ip7FrmPEpI6pW/giphy.gif)
+### 🔬 AI Predicting Mental Health Disorders
+![AI Predicting](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 ---
 

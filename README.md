@@ -49,7 +49,7 @@ This project is designed to assist counselors and patients in identifying potent
 ---
 ## 📢 Future Enhancements
 - Expand the dataset for higher accuracy.
-
+- Implement a chatbot for interactive counseling sessions.
 - Enhance UI/UX for better accessibility.
 ---
 

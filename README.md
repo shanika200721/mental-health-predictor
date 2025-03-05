@@ -9,7 +9,6 @@ This project is designed to assist counselors and patients in identifying potent
 - **Machine Learning Model**: Trained using Python in Jupyter Notebook to predict mental disorders.
 - **User-Friendly Web Interface**: Developed using JavaScript and CSS for interactivity.
 - **Counselor & Patient Guidance**: Provides advice and suggested actions based on predictions.
-- **REST API Integration**: Uses Node.js and Postman for testing API requests.
 - **Dynamic Predictions**: Users input symptoms, and the system predicts possible disorders with recommendations.
 
 ---
